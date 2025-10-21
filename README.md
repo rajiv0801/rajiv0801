@@ -22,8 +22,16 @@ I'm a passionate developer with a focus on web development and AI integration. C
 - Frontend Frameworks
 - Database Optimization
 
-## 📫 How to reach me
-- GitHub: [@rajiv0801](https://github.com/rajiv0801)
+## 📫 How to reach me & Coding Profiles
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajiv0801)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajivrajput2005)
+
+</div>
+
+### 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/rajiv0801?theme=dark&font=Noto%20Sans)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rajiv0801&show_icons=true&theme=radical)

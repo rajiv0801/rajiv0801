@@ -31,7 +31,7 @@ I'm a passionate developer with a focus on web development and AI integration. C
 </div>
 
 ### 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/rajiv0801?theme=dark&font=Noto%20Sans)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rajivrajput2005?theme=dark&font=Noto%20Sans)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rajiv0801&show_icons=true&theme=radical)

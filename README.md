@@ -84,9 +84,6 @@ A full-stack web application that helps programmers track and manage coding cont
 
 ---
 
-
----
-
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajiv0801&theme=dark)](https://github.com/rajiv0801)
 

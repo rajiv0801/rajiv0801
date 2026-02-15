@@ -84,8 +84,6 @@ A full-stack web application that helps programmers track and manage coding cont
 
 ---
 
-## 📊 GitHub Stats
-![Rajiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajiv0801&show_icons=true&theme=radical)
 
 ---
 

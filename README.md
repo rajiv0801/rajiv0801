@@ -4,7 +4,7 @@
 I'm a Computer Science student passionate about building real-world applications and improving problem-solving skills through competitive programming. I enjoy working on backend systems, full-stack web apps, and scalable solutions.
 
 - 💻 Focused on Backend Development and System Design
-- 🧠 Solved 720+ problems on LeetCode
+- 🧠 Solved 700+ problems on LeetCode
 - ⚙️ Currently building developer tools and productivity applications
 - 🌱 Continuously improving in DSA, Backend, and Full Stack Development
 
@@ -18,7 +18,7 @@ A full-stack web application that helps programmers track and manage coding cont
 **Key Features:**
 - 📅 Add and manage contest reminders
 - 🔔 Enable / Disable reminders globally
-- 💾 Store contest and reminder data in database
+- 💾 Store contest and reminder data in the database
 - 🌐 Full-stack implementation (Frontend + Backend)
 - 🧩 Clean REST API architecture
 

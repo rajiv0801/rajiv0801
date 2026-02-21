@@ -1,26 +1,26 @@
 # Hi there! 👋 I'm Rajiv Kumar Singh
 
-## 🚀 About Me
+## About Me
 I'm a Computer Science student passionate about building real-world applications and improving problem-solving skills through competitive programming. I enjoy working on backend systems, full-stack web apps, and scalable solutions.
 
-- 💻 Focused on Data Structure and Algorithm 
-- 🧠 Solved 700+ problems on LeetCode
-- ⚙️ Currently building developer tools and productivity applications
-- 🌱 Continuously improving in DSA, Backend, and Full Stack Development
+- Focused on Data Structure and Algorithm 
+- Solved 700+ problems on LeetCode
+- Currently building developer tools and productivity applications
+- Continuously improving in DSA, Backend, and Full Stack Development
 
 ---
 
-## 🔭 Current Project
+## Current Project
 
-### 🛎️ Contest Reminder App
+### Contest Reminder App
 A full-stack web application that helps programmers track and manage coding contest reminders across platforms.
 
 **Key Features:**
-- 📅 Add and manage contest reminders
-- 🔔 Enable / Disable reminders globally
-- 💾 Store contest and reminder data in the database
-- 🌐 Full-stack implementation (Frontend + Backend)
-- 🧩 Clean REST API architecture
+- Add and manage contest reminders
+- Enable / Disable reminders globally
+- Store contest and reminder data in the database
+- Full-stack implementation (Frontend + Backend)
+- Clean REST API architecture
 
 **Tech Stack Used:**
 - Backend: Node.js, Express.js
@@ -30,7 +30,7 @@ A full-stack web application that helps programmers track and manage coding cont
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 - Java
@@ -61,7 +61,7 @@ A full-stack web application that helps programmers track and manage coding cont
 
 ---
 
-## 🧠 Competitive Programming
+## Competitive Programming
 
 - Solved 700+ problems on LeetCode
 - Strong in Data Structures and Algorithms
@@ -69,7 +69,7 @@ A full-stack web application that helps programmers track and manage coding cont
 
 ---
 
-## 📫 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -80,12 +80,12 @@ A full-stack web application that helps programmers track and manage coding cont
 
 ---
 
-## 🏆 LeetCode Stats
+## LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rajivrajput2005?theme=dark&font=Noto%20Sans)
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajiv0801&theme=dark)](https://github.com/rajiv0801)
 
 ---

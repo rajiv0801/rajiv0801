@@ -64,7 +64,7 @@ A full-stack web application that helps programmers track and manage coding cont
 ## Competitive Programming
 
 - Solved 700+ problems on LeetCode
-- Strong in Data Structures and Algorithms
+- Solved more than 1500+ Data and Algorithm questions
 - Regular contest participant, Current contest rating 1912
 
 ---
